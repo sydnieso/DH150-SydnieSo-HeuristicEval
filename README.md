@@ -24,9 +24,8 @@ The overall framework of the application is structured fairly well. There are va
 3. **User control and freedom**
 - When beginning an activity there is no confirmation of wanting to start it and there is no cancel button, instead you have to ‘Finish’ your activity
 - When changing charities, after selecting a new charity a screen pops up asking whether or not the user is sure they want to make the change they are about to make
-
-![Change Charity]
-(https://github.com/sydnieso/DH150-SydnieSo-HeuristicEval/blob/master/ChangeCharity.PNG)
+- ![Change Charity]
+    (https://github.com/sydnieso/DH150-SydnieSo-HeuristicEval/blob/master/ChangeCharity.PNG)
   
 4. **Consistency and standards**
 - There are some images and titles that look as if they would be buttons/clickable to provide more information
