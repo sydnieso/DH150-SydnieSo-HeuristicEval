@@ -16,10 +16,10 @@ The overall framework of the application is structured fairly well. There are va
 1. **Visibility of system status**
 - When changing from various tabs on the navigation bar of the application, there is a circulating loading icon that pops up in the middle of the screen that circulates while the system is loading a page
 - When opening one of the support pages in the Settings tab there is a small bar that states ‘Opening URL…’ 
-- Both of these examples present issues because there is a lack of understanding as to how far along the system has loaded, since there is no fill that indicates the progress of loading
+- Both of these examples have issues because there is a lack of understanding as to how far along the system has loaded, since there is no fill that indicates the progress of loading
 
 2. **Match between system and the real world**
-- Descriptive words that are used in the Settings portion are clear and consise
+- Descriptive words that are used in the Settings portion are clear and consise, but slightly overwhelming with the amount of information it contains
 
 3. **User control and freedom**
 - When beginning an activity there is no confirmation of wanting to start it and there is no cancel button, instead you have to ‘Finish’ your activity
@@ -27,7 +27,8 @@ The overall framework of the application is structured fairly well. There are va
 - ![Change Charity](https://github.com/sydnieso/DH150-SydnieSo-HeuristicEval/blob/master/ChangeCharity.PNG)
   
 4. **Consistency and standards**
-- There are some images and titles that look as if they would be buttons/clickable to provide more information
+- There are some images and titles that look as if they would be buttons/clickable to provide more information (i.e. charity logo in upper righthand corner; thumbprint pattern circle in the lower portion of the screen)
+- ![Not Buttons](https://github.com/sydnieso/DH150-SydnieSo-HeuristicEval/blob/master/NotButtons.PNG)
 
 5. **Error prevention**
 - There is an option to create a team with only one member
