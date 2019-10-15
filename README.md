@@ -24,10 +24,12 @@ The overall framework of the application is structured fairly well. There are va
 3. **User control and freedom**
 - When beginning an activity there is no confirmation of wanting to start it and there is no cancel button, instead you have to ‘Finish’ your activity
 - When changing charities, after selecting a new charity a screen pops up asking whether or not the user is sure they want to make the change they are about to make
+
 ![Change Charity](https://github.com/sydnieso/DH150-SydnieSo-HeuristicEval/blob/master/ChangeCharity.PNG)
   
 4. **Consistency and standards**
 - There are some images and titles that are misleading and look as if they would be buttons/clickable to provide more information, but are not (i.e. charity logo in upper righthand corner; thumbprint pattern circle in the lower portion of the screen)
+
 ![Not Buttons](https://github.com/sydnieso/DH150-SydnieSo-HeuristicEval/blob/master/NotButtons.PNG)
 
 5. **Error prevention**
@@ -36,6 +38,7 @@ The overall framework of the application is structured fairly well. There are va
 
 6. **Recognition rather than recall**
 - The icons on the main navigation bar are misleading and unclear as to what they are trying to indicate. They do not correspond well with what icons are commonly known
+
 ![Navigation](https://github.com/sydnieso/DH150-SydnieSo-HeuristicEval/blob/master/Navigation.PNG)
 
 7. **Flexibility and efficiency of use**
