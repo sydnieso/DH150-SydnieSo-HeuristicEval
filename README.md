@@ -19,10 +19,14 @@ The overall framework of the application is structured fairly well. There are va
 - Both of these examples present issues because there is a lack of understanding as to how far along the system has loaded, since there is no fill that indicates the progress of loading
 
 2. **Match between system and the real world**
-- 
-
+- The icons on the main navigation bar are misleading and unclear as to what they are trying to indicate
+- Descriptive words that are used in the Settings portion are clear and consise
 
 3. **User control and freedom**
+- When beginning an activity there is no confirmation of wanting to start it and there is no cancel button, instead you have to ‘Finish’ your activity
+- When changing charities, after selecting a new charity a screen pops up asking whether or not the user is sure they want to make the change they are about to make
+![Change Charity]
+  
 
 4. **Consistency and standards**
 
