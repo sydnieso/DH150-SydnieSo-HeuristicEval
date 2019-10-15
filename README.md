@@ -21,36 +21,36 @@ The overall framework of the application is structured fairly well. There are va
 **2. Match between system and the real world**
 - Descriptive words that are used in the Settings portion are clear and consise, but slightly overwhelming with the amount of information it contains
 
-** 3. User control and freedom**
+**3. User control and freedom**
 - When beginning an activity there is no confirmation of wanting to start it and there is no cancel button, instead you have to ‘Finish’ your activity
 - When changing charities, after selecting a new charity a screen pops up asking whether or not the user is sure they want to make the change they are about to make
 
 ![Change Charity](https://github.com/sydnieso/DH150-SydnieSo-HeuristicEval/blob/master/ChangeCharity.PNG)
   
- **Consistency and standards**
+**4. Consistency and standards**
 - There are some images and titles that are misleading and look as if they would be buttons/clickable to provide more information, but are not (i.e. charity logo in upper righthand corner; thumbprint pattern circle in the lower portion of the screen)
 
 ![Not Buttons](https://github.com/sydnieso/DH150-SydnieSo-HeuristicEval/blob/master/NotButtons.PNG)
 
-5. **Error prevention**
+**5. Error prevention**
 - There is an option to create a team with only one member
 - There is no option to delete a team if you are the Admin, you may only 'Leave'
 
-6. **Recognition rather than recall**
+**6. Recognition rather than recall**
 - The icons on the main navigation bar are misleading and unclear as to what they are trying to indicate. They do not correspond well with what icons are commonly known
 
 ![Navigation](https://github.com/sydnieso/DH150-SydnieSo-HeuristicEval/blob/master/Navigation.PNG)
 
-7. **Flexibility and efficiency of use**
+**7. Flexibility and efficiency of use**
 - There does not seem to be any shortcut options for many of the tasks such as adding team members/inviting friends
 
-8. **Aesthetic and minimalist design**
+**8. Aesthetic and minimalist design**
 - Overall the design of the app is fairly minimal. There is not an extensive amount of words or icons, but there are various components that do not seem to contribute value, but rather create confusion
 - The Settings page that contains the large portion of dialogue is divided up well and separated from one another
 
-9. **Help users recognize, diagnose, and recover from errors**
+**9. Help users recognize, diagnose, and recover from errors**
 - There is currently no error indicator when attempting to change charities to the charity you have already chosen
 - When creating a new team, if a user selects a team name that has already been taken a screen will pop up and request for a different team name
 
-10. **Help and documentation**
+**10. Help and documentation**
 - The Help section breaks down the frequently asked questions well in varying categories
