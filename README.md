@@ -3,8 +3,6 @@
 ### Change for Charity
 Sydnie So DH150
 
-https://charitymiles.org/
-
 #### Overview: 
 [Charity Miles](https://charitymiles.org/) is an application that allows users to select a charity in which they want to raise money for. Through various physical activities such as walking, running, and biking, the app tracks your activity and based on the distance reached, users will raise a certain amount of money for every mile achieved in each session.
 #### Overall Evaluation:
