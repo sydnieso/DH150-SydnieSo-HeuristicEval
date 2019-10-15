@@ -9,7 +9,7 @@ Charity Miles is an application that allows users to select a charity in which t
 #### Overall Evaluation:
 The overall framework of the application is structured fairly well. There are various navigation components that could vastly improve the users experience. Many of the icons that indicate the different pages are unclear as to what they are supposed to represent. Error prevention is also something that could be improved on through the use of action confirmation and better accessibility to exit.
 
-![Landing Page](https://sydnieso.github.io/DH150-SydnieSo-HeuristicEval/IMG_5303.PNG)
+![Landing Page](https://github.com/sydnieso/DH150-SydnieSo-HeuristicEval/blob/master/LandingPage.PNG)
  
 
 #### Heuristic Evaluation:
