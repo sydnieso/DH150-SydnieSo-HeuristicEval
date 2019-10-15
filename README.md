@@ -11,6 +11,7 @@ The overall framework of the application is structured fairly well. There are va
 
 ![Landing Page]
   (https://github.com/sydnieso/DH150-SydnieSo-HeuristicEval/blob/master/IMG_5300.PNG)
+ 
 
 #### Heuristic Evaluation:
 1. **Visibility of system status**
