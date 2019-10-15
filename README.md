@@ -1,6 +1,6 @@
 ## DH150-SydnieSo-HeuristicEval
 ### Heuristic Evaluation
-### Charity Tracker
+### Change for Charity
 Sydnie So DH150
 
 https://charitymiles.org/
@@ -12,7 +12,7 @@ The overall framework of the application is structured fairly well. There are va
 ![Landing Page]
   (https://github.com/sydnieso/DH150-SydnieSo-HeuristicEval/blob/master/IMG_5300.PNG)
 
-#### Heuristic Evaluation
+#### Heuristic Evaluation:
 1. **Visibility of system status**
 - When changing from various tabs on the navigation bar of the application, there is a circulating loading icon that pops up in the middle of the screen that circulates while the system is loading a page
 - When opening one of the support pages in the Settings tab there is a small bar that states ‘Opening URL…’ 
