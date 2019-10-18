@@ -28,6 +28,7 @@ The overall framework of the application is structured fairly well. There are va
   
 **4. Consistency and standards**
 - There are some images and titles that are misleading and look as if they would be buttons/clickable to provide more information, but are not (i.e. charity logo in upper righthand corner; thumbprint pattern circle in the lower portion of the screen)
+- (Severity: 2)
 
 ![Not Buttons](https://github.com/sydnieso/DH150-SydnieSo-HeuristicEval/blob/master/NotButtons.PNG)
 
@@ -37,11 +38,13 @@ The overall framework of the application is structured fairly well. There are va
 
 **6. Recognition rather than recall**
 - The icons on the main navigation bar are misleading and unclear as to what they are trying to indicate. They do not correspond well with what icons are commonly known
+- (Severity: 3)
 
 ![Navigation](https://github.com/sydnieso/DH150-SydnieSo-HeuristicEval/blob/master/Navigation.PNG)
 
 **7. Flexibility and efficiency of use**
 - There does not seem to be any shortcut options for many of the tasks such as adding team members/inviting friends
+- (Severity: 1)
 
 **8. Aesthetic and minimalist design**
 - Overall the design of the app is fairly minimal. There is not an extensive amount of words or icons, but there are various components that do not seem to contribute value, but rather create confusion
